@@ -1,0 +1,6 @@
+{
+    "dataset": "LKD_experiences_modified.json",
+    "max_components": 6,
+    "max_settings_size": 8,
+    "mutation_rate": 0.05
+}
