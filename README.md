@@ -8,3 +8,5 @@ I was testing it on a classification problem of living kidney donor (LKD) text s
 
 The goal would be to make it more robust so it works for any kind of prompting case, but that's TBD. I'd also like to get it working for Ollama.
 
+For the GSM8K benchmark, and as shown in the paper, here are the top performing settings for the best prompts. 
+![top components 40_45_cropped](https://github.com/user-attachments/assets/d514cfac-a902-411c-83e2-d1feae56ba96)
